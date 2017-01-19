@@ -3,7 +3,7 @@ steps:
   build_step:
     title: "Building image..."
     type: build
-    image_name: containers101/reactstarterkit
+    image_name: maxtoyberman/reactstarterkit
 
   push_to_registry:
     title: Pushing to Docker Registry
